@@ -1,0 +1,7 @@
+D:\学习\C#\委托代码练习\委托代码练习\bin\Debug\委托代码练习.exe.config
+D:\学习\C#\委托代码练习\委托代码练习\bin\Debug\委托代码练习.exe
+D:\学习\C#\委托代码练习\委托代码练习\bin\Debug\委托代码练习.pdb
+D:\学习\C#\委托代码练习\委托代码练习\obj\Debug\委托代码练习.csproj.AssemblyReference.cache
+D:\学习\C#\委托代码练习\委托代码练习\obj\Debug\委托代码练习.csproj.CoreCompileInputs.cache
+D:\学习\C#\委托代码练习\委托代码练习\obj\Debug\委托代码练习.exe
+D:\学习\C#\委托代码练习\委托代码练习\obj\Debug\委托代码练习.pdb

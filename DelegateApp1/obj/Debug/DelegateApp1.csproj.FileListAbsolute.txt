@@ -1,0 +1,11 @@
+D:\学习\C#\委托代码练习\DelegateApp1\bin\Debug\DelegateApp1.exe.config
+D:\学习\C#\委托代码练习\DelegateApp1\bin\Debug\DelegateApp1.exe
+D:\学习\C#\委托代码练习\DelegateApp1\bin\Debug\DelegateApp1.pdb
+D:\学习\C#\委托代码练习\DelegateApp1\obj\Debug\DelegateApp1.csproj.AssemblyReference.cache
+D:\学习\C#\委托代码练习\DelegateApp1\obj\Debug\DelegateApp1.FrmChild.resources
+D:\学习\C#\委托代码练习\DelegateApp1\obj\Debug\DelegateApp1.FrmMain.resources
+D:\学习\C#\委托代码练习\DelegateApp1\obj\Debug\DelegateApp1.Properties.Resources.resources
+D:\学习\C#\委托代码练习\DelegateApp1\obj\Debug\DelegateApp1.csproj.GenerateResource.cache
+D:\学习\C#\委托代码练习\DelegateApp1\obj\Debug\DelegateApp1.csproj.CoreCompileInputs.cache
+D:\学习\C#\委托代码练习\DelegateApp1\obj\Debug\DelegateApp1.exe
+D:\学习\C#\委托代码练习\DelegateApp1\obj\Debug\DelegateApp1.pdb
